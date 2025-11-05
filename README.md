@@ -2,8 +2,6 @@
 
 ### I'm Currently Working as a Sr. Platform Engineer.<br/>I'm Very Much Passionate in Learning New Tools and Technologies and Sharing Knowledge.
 
-### Follow My Youtube Channel for Cloud and DevOps Tools and Technologies Videos.<br/>**https://www.youtube.com/@DevOpsCloudAutomation**
-
 ### LinkedIn<br/>**https://www.linkedin.com/in/pavan-kumar-k-j-107742154**<br/>30,000+ LinkedIn Followers.
 
 ### Kubernetes and Cloud Native Associate<br/>**https://www.credly.com/badges/44189064-607a-48b0-a82e-683eebd9e6d7/public_url**
